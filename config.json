@@ -1,0 +1,15 @@
+{
+      "params":
+      {
+          "local_server": "True",
+          "local_uri": "mysql://root:@localhost/codingthunder",
+          "prod_uri": "mysql://root:@localhost/codingthunder",
+          "fb_url": "https://facebook.com/coddingthunder",
+          "tw_url": "https://twitter.com/codingthunder",
+          "gh_url": "https://github.com/codingthunder",
+          "gmail-user": "mahbubsraboni1204@gmail.com",
+          "gmail-password": "slytherin0123456789",
+          "no_of_posts": 100
+
+      }
+}
